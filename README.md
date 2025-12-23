@@ -4,7 +4,7 @@ Write your blockage — it helps you clarify the real issue, decompose key facto
 
 ![Overview](overview.png)
 
----
+
 
 ## What it does ✨
 DeepSupport helps you move from a vague problem to a concrete next step:
@@ -13,21 +13,21 @@ DeepSupport helps you move from a vague problem to a concrete next step:
 - 🧩 Break it down into key variables and options  
 - ✅ Generate a practical checklist you can execute immediately  
 
----
+
 
 ## Beta Access 🔐
 - 🌐 [Open demo](http://167.71.115.58:34821/)
 - 📝 [Fill the form](https://forms.gle/xLgVwB7eDk7yWZDb8) to receive a username and password
 
+Tip: Please enter your input in Chinese when possible. Multilingual support will be available in the near future.
 
 
----
 
 ## Disclaimer ⚠️
 DeepSupport is not professional advice, diagnosis, or consulting (medical, legal, financial, etc.).  
 It provides structured thinking support and action planning. Please make your own decisions and consult qualified professionals when needed.
 
----
+
 
 ## Research and Citation 📚
 If you use DeepSupport in a paper, report, thesis, or study, please cite this repository (beta stage):
@@ -44,7 +44,7 @@ If you use DeepSupport in a paper, report, thesis, or study, please cite this re
 
 Tip: Please record your access date when referencing this beta. It will be updated continuosly.
 
----
+
 
 ## License 📜
 - Noncommercial use (including academic and research use) is governed by `LICENSE` (PolyForm Noncommercial 1.0.0).
