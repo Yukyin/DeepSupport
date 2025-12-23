@@ -20,7 +20,8 @@ DeepSupport helps you move from a vague problem to a concrete next step:
 - 🌐 [Open demo](http://167.71.115.58:34821/)
 - 📝 [Fill the form](https://forms.gle/xLgVwB7eDk7yWZDb8) to receive a username and password.
 
-> *Tip: Please enter your input in Chinese when possible. Multilingual support will be available in the near future.*
+<p><em><span style="color:#6a737d;">Tip: Please enter your input in Chinese when possible. Multilingual support will be available in the near future.</span></em></p>
+
 
 
 
@@ -43,8 +44,7 @@ If you use DeepSupport in a paper, report, thesis, or study, please cite this re
 }
 ```
 
-Tip: Please record your access date when referencing this beta. It will be updated continuosly.
-
+<p><em><span style="color:#6a737d;">Tip: Please record your access date when referencing this beta. The system will be updated continuously.</span></em></p>
 
 
 ## License 📜
