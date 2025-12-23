@@ -44,7 +44,7 @@ If you use DeepSupport in a paper, report, thesis, or study, please cite this re
 }
 ```
 
-<p><em><span style="color:#6a737d;">Tip: Please record your access date when referencing this beta. The system will be updated continuously.</span></em></p>
+<p><sub><em>Tip: Please record your access date when referencing this beta. The system will be updated continuously.</em></sub></p>
 
 
 ## License 📜
