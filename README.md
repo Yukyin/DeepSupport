@@ -1,5 +1,7 @@
 # DeepSupport 🧪
-💪 DeepSupport is a problem-clarification and action-planning companion.  Write your blockage, it helps you clarify the real issue, decompose key factors, and generate actionable next steps.
+💪 DeepSupport is a problem-clarification and action-planning companion.  
+✍️ Write your blockage, then get clarity, options, and next steps.
+
 
 ![Overview](overview.png)
 
