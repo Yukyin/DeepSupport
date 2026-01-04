@@ -12,7 +12,7 @@ DeepSupport Warm helps you feel held and less alone in the moment:
 
 - 🫧 Validate and name what you’re feeling without judging.  
 - 🧸 Stay with the emotion first, before problem-solving.  
-- 🌙 Offer gentle grounding and a small next step only if you want it.  
+- 🌙 Offer gentle grounding and a small next step only if you want.  
 
 
 
