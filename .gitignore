@@ -1,0 +1,19 @@
+# logs / outputs
+outputs/
+*.json
+*.jsonl
+deepsupport-coach-oss/README_beta.md
+deepsupport-coach-oss/overview.png
+
+
+# caches
+__pycache__/
+*.pyc
+unsloth_compiled_cache/
+.cache/
+.cache_hf/
+.hf_cache/
+wandb/
+
+# system
+.DS_Store

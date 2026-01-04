@@ -1,0 +1,6 @@
+# Minimal runtime deps for DeepSupport Warm (OSS demo)
+torch
+transformers
+accelerate
+gradio==5.50.0
+peft
