@@ -9,7 +9,7 @@ DeepSupport is a multi-mode companion for supportive dialogue:
 
 
 
-## Quickstart ⛽️
+## Quickstart 🚀
 
 - **DeepSupport Warm** → `DeepSupport_Warm/`  
   Read the Warm README: **[`DeepSupport_Warm/README.md`](DeepSupport_Warm/README.md)**

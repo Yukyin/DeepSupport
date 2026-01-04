@@ -17,7 +17,7 @@ DeepSupport Coach helps you move from a vague problem to a concrete next step:
 
 
 
-## Quickstart ⛽️
+## Quickstart 🚀
 
 ### 1. Dependencies
 ```bash

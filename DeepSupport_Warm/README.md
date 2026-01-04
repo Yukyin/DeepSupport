@@ -16,7 +16,7 @@ DeepSupport Warm helps you feel held and less alone in the moment:
 
 
 
-## Quickstart ⛽️
+## Quickstart 🚀
 
 ### 1. Dependencies
 ```bash
