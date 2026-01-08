@@ -8,7 +8,7 @@ I have an important presentation next week. The closer it gets, the more anxious
 
 ### Coach — OSS
 **Output (ZH)**  
-0.你现在的处境：下周有一个重要的汇报，这让你感到越来越焦虑，甚至影响了睡眠。
+0. 你现在的处境：下周有一个重要的汇报，这让你感到越来越焦虑，甚至影响了睡眠。
 1. 痛点一句话：重要汇报引发焦虑，影响睡眠。
 2. 关键变量清单
 。 已知：
@@ -37,7 +37,7 @@ I have an important presentation next week. The closer it gets, the more anxious
 。 应对突发状况的策略是什么？准备一份简明的问答大纲。
 
 **Output (EN)**  
-0.Your current situation: You have an important presentation next week, which is making you increasingly anxious and has even affected your sleep.
+0. Your current situation: You have an important presentation next week, which is making you increasingly anxious and has even affected your sleep.
 1. One-sentence pain point: An important presentation triggers anxiety and affects sleep.
 2. Key variables list
 。 Known:
@@ -69,7 +69,7 @@ If preparation is sufficient, then anxiety may be excessive worry about performa
 
 ### Coach — Full
 **Output (ZH)**  
-0.你现在的处境：下周有一个重要的汇报，感到越来越焦虑，影响到了睡眠。
+0. 你现在的处境：下周有一个重要的汇报，感到越来越焦虑，影响到了睡眠。
 1. 痛点一句话：重要汇报前焦虑失眠。
 2. 关键变量清单
 。 已知：
@@ -98,7 +98,7 @@ If preparation is sufficient, then anxiety may be excessive worry about performa
 。Q：如果模拟汇报效果不佳怎么办？A：分析反馈，针对性改进，同时保持积极态度，相信自己能够进步。
 
 **Output (EN)**  
-0.Your current situation: You have an important presentation next week, feel increasingly anxious, and it has affected your sleep.
+0. Your current situation: You have an important presentation next week, feel increasingly anxious, and it has affected your sleep.
 1. One-sentence pain point: Anxiety and insomnia before an important presentation.
 2. Key variables list
 。 Known:
@@ -140,7 +140,7 @@ My partner and I keep arguing about the same issue. Every time we talk, it escal
 
 ### Coach — OSS
 **Output (ZH)**  
-0.你现在的处境：你和伴侣在同一个问题上反复争吵，每次沟通都难以控制情绪，导致冲突升级。
+0. 你现在的处境：你和伴侣在同一个问题上反复争吵，每次沟通都难以控制情绪，导致冲突升级。
 1. 痛点一句话：沟通失控，冲突升级。
 2. 关键变量清单
 。 已知：
@@ -167,7 +167,7 @@ My partner and I keep arguing about the same issue. Every time we talk, it escal
 。 我们应该讨论什么？聚焦于具体行为而非个人特质，设定明确的目标。
 
 **Output (EN)**  
-0.Your current situation: You and your partner repeatedly argue about the same issue, and it is hard to control emotions during communication, causing the conflict to escalate.
+0. Your current situation: You and your partner repeatedly argue about the same issue, and it is hard to control emotions during communication, causing the conflict to escalate.
 1. One-sentence pain point: Communication gets out of control, and conflict escalates.
 2. Key variables list
 。 Known:
@@ -197,7 +197,7 @@ My partner and I keep arguing about the same issue. Every time we talk, it escal
 
 ### Coach — Full
 **Output (ZH)**  
-0.你和伴侣因同一问题频繁争吵，每次沟通都难以控制情绪升级。
+0. 你和伴侣因同一问题频繁争吵，每次沟通都难以控制情绪升级。
 1. 情绪控制困难导致沟通失败。
 2. 关键变量清单
 。 已知：
@@ -225,7 +225,7 @@ My partner and I keep arguing about the same issue. Every time we talk, it escal
 。 什么时候应该寻求专业帮助？A：当自我努力无效且情况恶化时。
 
 **Output (EN)**  
-0.You and your partner frequently argue because of the same issue, and it is hard to control emotions during communication, which escalates.
+0. You and your partner frequently argue because of the same issue, and it is hard to control emotions during communication, which escalates.
 1. Difficulty controlling emotions leads to communication failure.
 2. Key variables list
 。 Known:
@@ -266,7 +266,7 @@ I’m stuck between two job options. Both have pros and cons, and I’m scared o
 
 ### Coach — OSS
 **Output (ZH)**  
-0.你现在的处境：在两个工作机会之间犹豫不决，担心选择错误导致拖延决策。
+0. 你现在的处境：在两个工作机会之间犹豫不决，担心选择错误导致拖延决策。
 1. 痛点一句话：工作选择焦虑致拖延。
 2. 关键变量清单
 。 已知：
@@ -294,7 +294,7 @@ I’m stuck between two job options. Both have pros and cons, and I’m scared o
 
 
 **Output (EN)**  
-0.Your current situation: You are torn between two job opportunities, worried that choosing wrong will lead to delaying the decision.
+0. Your current situation: You are torn between two job opportunities, worried that choosing wrong will lead to delaying the decision.
 1. One-sentence pain point: Anxiety about job choice leads to procrastination.
 2. Key variables list
 。 Known:
@@ -324,7 +324,7 @@ I’m stuck between two job options. Both have pros and cons, and I’m scared o
 
 ### Coach — Full
 **Output (ZH)**  
-0.你正在两个工作机会间犹豫不决，担心选择错误导致拖延。
+0. 你正在两个工作机会间犹豫不决，担心选择错误导致拖延。
 1. 拖延决策，怕选错。
 2. 关键变量清单
 。 已知：
@@ -351,7 +351,7 @@ I’m stuck between two job options. Both have pros and cons, and I’m scared o
 。 如果两个机会都接受不了怎么办？A：重新评估自身需求，寻找符合期望的新机会。
 
 **Output (EN)**  
-0.You are torn between two job opportunities and procrastinate because you worry about choosing wrong.
+0. You are torn between two job opportunities and procrastinate because you worry about choosing wrong.
 1. Procrastinating on the decision, afraid of choosing wrong.
 2. Key variables list
 。 Known:
@@ -391,7 +391,7 @@ I feel burned out. My energy is low, my attention is scattered, and I’m fallin
 
 ### Coach — OSS
 **Output (ZH)**  
-0.你现在的处境：你感到倦怠，精力低落，注意力分散，同时又无法停止工作。
+0. 你现在的处境：你感到倦怠，精力低落，注意力分散，同时又无法停止工作。
 1. 痛点一句话：工作倦怠，精力不足。
 2. 关键变量清单
 。 已知：
@@ -419,7 +419,7 @@ I feel burned out. My energy is low, my attention is scattered, and I’m fallin
 。 如何向领导说明情况？A：诚恳表达当前状态，请求适当的工作调整。
 
 **Output (EN)**  
-0.Your current situation: You feel burned out, your energy is low, your attention is scattered, and you also cannot stop working.
+0. Your current situation: You feel burned out, your energy is low, your attention is scattered, and you also cannot stop working.
 1. One-sentence pain point: Work burnout and low energy.
 2. Key variables list
 。 Known:
@@ -450,7 +450,7 @@ I feel burned out. My energy is low, my attention is scattered, and I’m fallin
 
 ### Coach — Full
 **Output (ZH)**  
-0.你感觉倦总，精力低，注意力分散，同时又无法停止工作。
+0. 你感觉倦总，精力低，注意力分散，同时又无法停止工作。
 1. 疲劳导致效率低下。
 2. 关键变量清单
 。 已知：
@@ -478,7 +478,7 @@ I feel burned out. My energy is low, my attention is scattered, and I’m fallin
 。Q：短暂假期多久合适？A:2-3天，足够放松但不影响工作进度。
 
 **Output (EN)**  
-0.You feel burned out, your energy is low, your attention is scattered, and you also cannot stop working.
+0. You feel burned out, your energy is low, your attention is scattered, and you also cannot stop working.
 1. Fatigue leads to low efficiency.
 2. Key variables list
 。 Known:
@@ -519,7 +519,7 @@ When I make a small mistake, I spiral into “I’m not good enough.” I know i
 
 ### Coach — OSS
 **Output (ZH)**  
-0.你现在的处境：你发现自己在犯小错后会陷入自我怀疑的循环，难以自拔。
+0. 你现在的处境：你发现自己在犯小错后会陷入自我怀疑的循环，难以自拔。
 1. 痛点一句话：小错引发自我否定。
 2. 关键变量清单
 。 已知：
@@ -546,7 +546,7 @@ When I make a small mistake, I spiral into “I’m not good enough.” I know i
 。 如果情况没有改善怎么办？考虑寻求心理咨询师的帮助。
 
 **Output (EN)**  
-0.Your current situation: You notice that after making a small mistake you fall into a cycle of self-doubt and find it hard to get out.
+0. Your current situation: You notice that after making a small mistake you fall into a cycle of self-doubt and find it hard to get out.
 1. One-sentence pain point: A small mistake triggers self-denial.
 2. Key variables list
 。 Known:
@@ -576,7 +576,7 @@ When I make a small mistake, I spiral into “I’m not good enough.” I know i
 
 ### Coach — Full
 **Output (ZH)**  
-0.你一犯小错就觉得自己不够好，难以停止这种自我否定。
+0. 你一犯小错就觉得自己不够好，难以停止这种自我否定。
 1. 犯小错即自我否定
 2. 关键变量清单
 。 已知：
@@ -604,7 +604,7 @@ When I make a small mistake, I spiral into “I’m not good enough.” I know i
 。 专业人士指谁？A：心理咨询师或心理医生。
 
 **Output (EN)**  
-0.When you make a small mistake, you feel that you are not good enough and find it hard to stop this self-denial.
+0. When you make a small mistake, you feel that you are not good enough and find it hard to stop this self-denial.
 1. Making a small mistake immediately leads to self-denial.
 2. Key variables list
 。 Known:
