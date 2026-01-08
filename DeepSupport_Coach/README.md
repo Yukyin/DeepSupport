@@ -42,7 +42,7 @@ python deepsupport_coach_demo.py \
 
 - The original internal version relied on private datasets which cannot be open-sourced at this time. For a trial of the original version, please contact the author.
 
-- We provide some comparative examples: see **[`EXAMPLE.md`](EXAMPLE.md)**. 
+- We provide some comparative examples: see **[`EXAMPLES.md`](EXAMPLES.md)**. 
 
 
 ## Disclaimer ⚠️
