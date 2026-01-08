@@ -1,10 +1,14 @@
 ## Example 1 | Presentation anxiety
 
 **Input (ZH)**  
+```text
 下周我要做一个很重要的汇报，越临近越焦虑，晚上也睡不好。
+```
 
 **Input (EN)**  
+```text
 I have an important presentation next week. The closer it gets, the more anxious I feel, and I can’t sleep well.
+```
 
 ### Warm — OSS
 **Output (ZH)**  
@@ -44,10 +48,14 @@ You do not have to endure it alone.
 ## Example 2 | Relationship conflict
 
 **Input (ZH)**  
+```text
 我和伴侣总在同一个问题上反复吵架，每次沟通都会升级。我想好好说，但一开口就失控。
+```
 
 **Input (EN)**  
+```text
 My partner and I keep arguing about the same issue. Every time we talk, it escalates. I don’t know how to communicate without losing control.
+```
 
 ### Warm — OSS
 **Output (ZH)**  
@@ -92,10 +100,14 @@ You have already done enough.
 ## Example 3 | Career choice paralysis
 
 **Input (ZH)**  
+```text
 我在两个工作机会之间犹豫不决，各有优缺点，我很怕选错，所以一直拖延。
+```
 
 **Input (EN)**  
+```text
 I’m stuck between two job options. Both have pros and cons, and I’m scared of choosing wrong. I keep delaying.
+```
 
 ### Warm — OSS
 **Output (ZH)**  
@@ -138,10 +150,14 @@ It’s not that you can’t do it; you’re just stuck on something difficult.
 ## Example 4 | Burnout
 
 **Input (ZH)**  
+```text
 我感觉自己倦怠了，精力很低，注意力很散，还在不断落后。我想恢复，但我也没法停下工作。
+```
 
 **Input (EN)**  
+```text
 I feel burned out. My energy is low, my attention is scattered, and I’m falling behind. I want to recover but I also can’t stop working.
+```
 
 ### Warm — OSS
 **Output (ZH)**  
@@ -179,10 +195,14 @@ Don’t rush to solve all the problems first—we will first bring your anxiety 
 ## Example 5 | Self-criticism loop
 
 **Input (ZH)**  
+```text
 我一犯小错就会陷入“我不够好”的旋涡。我知道不理性，但就是停不下来。
+```
 
 **Input (EN)**  
+```text
 When I make a small mistake, I spiral into “I’m not good enough.” I know it’s irrational, but I can’t stop.
+```
 
 ### Warm — OSS
 **Output (ZH)**  
