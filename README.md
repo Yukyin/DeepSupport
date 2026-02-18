@@ -2,6 +2,8 @@
 
 DeepSupport is a multi-mode companion for supportive dialogue:
 
+![Overview](ds-jiemian.png)
+
 - 🫂 **DeepSupport Warm** is an emotional-holding companion that offers gentle support without rushing into what to do next.
 
 - 🧂 **DeepSupport Tsukkomi** is a wry roast-and-reframe companion that uses deadpan humor to help you vent, zoom out, and regain perspective without forcing serious advice mode.
@@ -14,7 +16,7 @@ DeepSupport is a multi-mode companion for supportive dialogue:
 
 Different personas take turns to keep you moving in the same messy world.
 
-![Overview](ds-jiemian.png)
+
 
 ## Quickstart 🚀
 
