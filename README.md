@@ -4,7 +4,7 @@ DeepSupport is a multi-mode companion for supportive dialogue:
 
 - 🫂 **DeepSupport Warm** is an emotional-holding companion that offers gentle support without rushing into what to do next.
 
-- 🧂 **DeepSupport Tsukkomi** is a wry roast-and-reframe companion that uses deadpan humor to help you vent, zoom out, and regain perspective without forcing “serious advice mode”.
+- 🧂 **DeepSupport Tsukkomi** is a wry roast-and-reframe companion that uses deadpan humor to help you vent, zoom out, and regain perspective without forcing serious advice mode.
 
 - 🌐 **DeepSupport Real** is a calibrated reality-check companion that anchors the conversation in constraints and facts while keeping the tone protective and steady.
 
@@ -24,10 +24,10 @@ Different personas take turns to keep you moving in the same messy world.
 - **DeepSupport Tsukkomi** → `DeepSupport_Tsukkomi/`  
   Read the Tsuk README: **[`DeepSupport_Tsukkomi/README.md`](DeepSupport_Tsukkomi/README.md)**
 
-- **DeepSupport Real** → `DeepSupport_Real/`
+- **DeepSupport Real** → `DeepSupport_Real/`  
   Read the Real README: **[`DeepSupport_Real/README.md`](DeepSupport_Real/README.md)**
 
-- **DeepSupport Gonzo** → `DeepSupport_Gonzo/`
+- **DeepSupport Gonzo** → `DeepSupport_Gonzo/`  
   Read the Gonzo README: **[`DeepSupport_Gonzo/README.md`](DeepSupport_Gonzo/README.md)**
 
 - **DeepSupport Coach** → `DeepSupport_Coach/`  
