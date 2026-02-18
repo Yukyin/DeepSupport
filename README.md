@@ -1,14 +1,4 @@
-<table>
-  <tr>
-    <td style="vertical-align: middle; padding: 0;">
-      <h1 style="margin: 0; padding: 0;">DeepSupport</h1>
-    </td>
-    <td style="vertical-align: middle; padding-left: 12px;">
-      <img src="brand_mark.png" alt="DeepSupport logo" height="56">
-    </td>
-  </tr>
-</table>
-
+<h1>DeepSupport&nbsp;<img src="brand_mark.png" alt="DeepSupport logo" height="56"></h1>
 
 
 DeepSupport is a multi-mode companion for supportive dialogue:
