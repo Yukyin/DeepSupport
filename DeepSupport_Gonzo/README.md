@@ -3,7 +3,7 @@
 ✍️ Write the messy context, then get wild analogies that make the hidden structure suddenly visible.  
 
 
-![Overview](ds_gonzo.png)
+![Overview](ds-gonzo.png)
 
 
 
