@@ -1,4 +1,4 @@
-<h1>DeepSupport&nbsp;<img src="brand_mark.png" alt="DeepSupport logo" height="56"></h1>
+<h1>DeepSupport&nbsp;<img src="brand_mark.png" alt="DeepSupport logo" height="46"></h1>
 
 
 DeepSupport is a multi-mode companion for supportive dialogue:
