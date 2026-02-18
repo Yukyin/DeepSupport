@@ -1,4 +1,4 @@
-# DeepSupport Warm ❤️‍🩹
+# DeepSupport Warm 🫂
 🫶 DeepSupport Warm is an emotional-holding companion.  
 ✍️ Write how you feel, then get gentle reflection and warm support, no rushing into what to do next.
 
@@ -42,30 +42,3 @@ python deepsupport_warm_demo.py \
 
 - We provide comparative examples between the OSS release and the original internal version here: **[`EXAMPLES.md`](EXAMPLES.md)**. 
 
-
-## Disclaimer ⚠️
-- DeepSupport Warm does not provide professional advice, diagnosis, or therapy. 
-
-- It provides supportive conversation and emotional holding. Please seek qualified professional help when needed.
-
-
-## Research and Citation 📚
-If you use DeepSupport Warm in a paper, report, thesis, or study, please cite this repository:
-
-```bibtex
-@software{deepsupport_warm_2026,
-  author  = {Yuyan Chen},
-  title   = {DeepSupport Warm: An emotional-holding companion for supportive dialogue},
-  year    = {2026},
-  version = {oss},
-  url     = {\url{https://github.com/Yukyin/DeepSupport/DeepSupport_Warm}}
-}
-```
-
-
-## License 📜
-- Noncommercial use (including academic and research use) is governed by `LICENSE` (PolyForm Noncommercial 1.0.0).
-- Commercial use requires a separate agreement — see `COMMERCIAL_LICENSE.md`.
-- Copyright notice is provided in `NOTICE`.
-
-📨 Commercial inquiries: yolandachen0313@gmail.com

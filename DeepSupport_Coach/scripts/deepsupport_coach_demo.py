@@ -542,7 +542,7 @@ def build_app(model, tokenizer, icl_examples: List[Dict[str, str]], style_inject
         except Exception as e:
             print(f"[WARN] failed to write md: {e}")
 
-    with gr.Blocks(title="DeepSupport Coach (OSS)", css=MACARON_CSS, theme=theme) as demo:
+    with gr.Blocks(title="DeepSupport Coach 🧑‍🏫", css=MACARON_CSS, theme=theme) as demo:
         gr.HTML(HEADER_HTML)
         with gr.Row(elem_classes=["ds-shell"]):
             with gr.Column(scale=1, elem_classes=["ds-card","ds-card-left"]):
@@ -678,3 +678,23 @@ if __name__ == "__main__":
 
 
 
+'''
+
+
+module load mamba
+conda activate /condo/wanglab/shared/conda_envs/qwen
+
+cd /home/tmhyxc55/wanglab/tmhyxc55/2d-3d/my/deepsupport-oss-opensource/DeepSupport_Coach
+
+export HF_HOME=/home/tmhyxc55/wanglab/tmhyxc55/.cache/huggingface
+export HF_HUB_CACHE=/home/tmhyxc55/wanglab/tmhyxc55/.cache/huggingface/hub
+
+CUDA_VISIBLE_DEVICES=2 python scripts/deepsupport_coach_demo.py \
+  --base_model Qwen/Qwen2.5-32B-Instruct \
+  --icl_file data/icl_synthetic.json \
+  --save_dir outputs/coach_logs \
+  --save_md \
+  --host 0.0.0.0 --port 7865
+
+
+'''

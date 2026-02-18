@@ -1,6 +1,12 @@
-# Minimal runtime deps for DeepSupport Warm (OSS demo)
-torch
-transformers
-accelerate
+torch==2.8.0
+transformers==4.57.0
+accelerate==1.10.1
+scikit-learn==1.8.0
+unsloth
 gradio==5.50.0
-peft
+gradio_client==1.14.0
+httpx==0.28.1
+fastapi==0.117.1
+starlette==0.48.0
+pydantic==2.11.9
+
