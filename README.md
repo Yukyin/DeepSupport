@@ -14,7 +14,7 @@ DeepSupport is a multi-mode companion for supportive dialogue:
 
 Different personas take turns to keep you moving in the same messy world.
 
-![Overview](ds-jiemian.png)
+![Overview](overview.png)
 
 ## Quickstart 🚀
 
