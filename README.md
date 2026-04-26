@@ -16,7 +16,7 @@ Different personas take turns to keep you moving in the same messy world.
 
 ![Overview](overview.png)
 
-A complete screen recording of a live two-turn group-chat session with all five personas responding concurrently is available [`here`](ds-group.mp4).
+A complete screen recording of a live two-turn group-chat session with all five personas responding concurrently is available [here](ds-group.mp4).
 
 ## Quickstart 🚀
 
