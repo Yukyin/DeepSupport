@@ -48,6 +48,8 @@ A complete screen recording of a live two-turn group-chat session with all five 
 
 - DeepSupport Coach is a prompt-based method best with in-context learning data and requires no additional training.
 
+- [NEW!] We now open-source a representative sample of the dataset, including 62 dialogue pairs across all five personas, with Chinese–English parallel annotations at https://huggingface.co/datasets/Yukyin/DeepSupport.
+
 
 
 
