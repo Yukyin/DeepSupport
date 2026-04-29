@@ -68,7 +68,7 @@ If you use DeepSupport in a paper, report, thesis, or study, please cite this re
 ```bibtex
 @misc{deepsupport2026,
   author  = {Yuyan Chen},
-  title   = {DeepSupport: A Multi-Mode Companion for Supportive Dialogue},
+  title   = {DeepSupport: A Multi-Perspective Self-Discovery Dialogue Dataset},
   year    = {2026},
   url     = {\url{https://github.com/Yukyin/DeepSupport}}
 }
