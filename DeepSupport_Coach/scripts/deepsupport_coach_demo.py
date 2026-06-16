@@ -681,15 +681,8 @@ if __name__ == "__main__":
 '''
 
 
-module load mamba
-conda activate /condo/wanglab/shared/conda_envs/qwen
-
-cd /home/tmhyxc55/wanglab/tmhyxc55/2d-3d/my/deepsupport-oss-opensource/DeepSupport_Coach
-
-export HF_HOME=/home/tmhyxc55/wanglab/tmhyxc55/.cache/huggingface
-export HF_HUB_CACHE=/home/tmhyxc55/wanglab/tmhyxc55/.cache/huggingface/hub
-
-CUDA_VISIBLE_DEVICES=2 python scripts/deepsupport_coach_demo.py \
+# Example launch command:
+CUDA_VISIBLE_DEVICES=0 python scripts/deepsupport_coach_demo.py \
   --base_model Qwen/Qwen2.5-32B-Instruct \
   --icl_file data/icl_synthetic.json \
   --save_dir outputs/coach_logs \
